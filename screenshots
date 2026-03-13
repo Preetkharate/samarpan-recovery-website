@@ -1,4 +1,30 @@
-home-page.png
-services-page.png
-about-page.png
-mobile-view.png
+# Samarpan Recovery Website
+
+Live Website:
+https://samarpanrecovery.com
+
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### Services Page
+![Services](screenshots/services-page.png)
+
+### About Page
+![About](screenshots/about-page.png)
+
+### Mobile View
+![Mobile](screenshots/mobile-view.png)
+
+## Technologies Used
+
+HTML  
+CSS  
+JavaScript  
+
+## My Role
+
+• Built responsive layouts  
+• Implemented UI components  
+• Worked on page optimization
